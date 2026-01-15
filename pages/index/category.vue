@@ -66,7 +66,7 @@
   import { handleTree } from '@/sheep/helper/utils';
 
   const state = reactive({
-    style: 'second_one', // first_one（一级 - 样式一）, first_two（二级 - 样式二）, second_one（二级）
+    style: 'first_one', // first_one（一级 - 样式一）, first_two（二级 - 样式二）, second_one（二级）
     categoryList: [], // 商品分类树
     activeMenu: 0, // 选中的一级菜单，在 categoryList 的下标
 

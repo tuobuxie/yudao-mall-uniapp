@@ -1,0 +1,1 @@
+import{X as s,o as e,f as a,w as n,i as t,j as o,k as r,ci as u}from"./index-Ch_jkemp.js";const l={__name:"webview",setup(l){const c=s("");return e((s=>{c.value=decodeURIComponent(s.url)})),(s,e)=>{const l=u,d=t;return o(),a(d,null,{default:n((()=>[r(l,{src:c.value},null,8,["src"])])),_:1})}}};export{l as default};
